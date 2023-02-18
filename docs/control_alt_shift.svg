@@ -1,12 +1,14 @@
-<!-- Copyright 2022–Today (c) Giovanni Tramutola. All rights reserved. -->
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 776 256">
+  <metadata>
+    Copyright 2022–Today (c) Giovanni Tramutola (https://github.com/giotramu). All rights reserved.
+  </metadata>
   <style>
     :root {
-      --accent: #0055FF;
-      --background-lower: #FFF;
-      --background-higher: #EBEBEB;
-      --foreground-lower: #FFF;
-      --foreground-higher: #141414;
+      --accent: #4169E1;
+      --background-lower: #F8F8FF;
+      --background-higher: #DFDFE5;
+      --foreground-lower: #F8F8FF;
+      --foreground-higher: #313133;
     }
   </style>
   <rect fill="var(--background-lower)" width="255" height="47" x="243.5" y="208.5" rx="2.5"/>
